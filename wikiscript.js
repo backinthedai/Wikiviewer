@@ -11,7 +11,7 @@ $("#searchTerm").keypress(function (e) {
     }
 });
 
-setBGImage();//<-- set random bg image
+//setBGImage();//<-- set random bg image
 
 
 $(document).ready(function () {
